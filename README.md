@@ -32,4 +32,4 @@ $ ./step03
 $ go run .
 ```
 
-# tentenさんのhttps://github.com/gohandson/gacha-jaを利用して作成
+# tenntennさんの https://github.com/gohandson/gacha-ja を利用して作成
